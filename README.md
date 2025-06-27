@@ -43,10 +43,17 @@ This mini case study analyzes pizza sales data using Microsoft Excel. The datase
 - Try the same using Python + Pandas.
 
 ---
-
 ## 📂 Repository Contents
 | File | Description |
 |------|-------------|
 | `Pizza_Challenge_Raw.xlsx` | Original dataset from Kaggle |
 | `Pizza_Challenge_Insights.xlsx` | Final Excel file with analysis |
-| `/screenshots/` | Visuals of pivot table and charts |
+| `https://github.com/Rita-Mahato-2025/pizza-challenge-excel-case-study/blob/main/3.%20Pizza_Challenge_Raw.xlsx`(downloaded on local system) | Original dataset from Kaggle |
+| `https://github.com/Rita-Mahato-2025/pizza-challenge-excel-case-study/blob/main/2.%20Pizza_Challenge_Insights.xlsx` (downloaded on local system) | Final Excel file with analysis |
+| `https://github.com/Rita-Mahato-2025/pizza-challenge-excel-case-study/blob/main/1.%20The_Pizza_Challenge.docx` (download by clicking, view raw) | The Challenge |
+| `https://github.com/Rita-Mahato-2025/pizza-challenge-excel-case-study/blob/main/5.1.1.%20The_Busiest_Day_of_the_Week.png` | The Busiest Day of the Week |
+| `https://github.com/Rita-Mahato-2025/pizza-challenge-excel-case-study/blob/main/5.1.2.%20Busiest_Time_of_a_Day.png` | Busiest Time of the Day |
+| `https://github.com/Rita-Mahato-2025/pizza-challenge-excel-case-study/blob/main/5.2.%20Number_of_Pizza_making_During_peak_time.png`| Number of Pizza Making during Peak Time |
+| `https://github.com/Rita-Mahato-2025/pizza-challenge-excel-case-study/blob/main/5.3.1.%20Top_5_Pizzas.png` | Best Pizza |
+| `https://github.com/Rita-Mahato-2025/pizza-challenge-excel-case-study/blob/main/5.3.2.%20Bottom_5_Pizzas.png` | Worst Pizza |
+| `https://github.com/Rita-Mahato-2025/pizza-challenge-excel-case-study/blob/main/5.4.%20Avg_Order_Value.png` | Average Order Value |
